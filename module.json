@@ -1,7 +1,7 @@
 {
   "id": "hexxen-1733-basics",
   "title": "HeXXen 1733 - Basics",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -20,6 +20,6 @@
     }
   ],
   "authors": [ { "name": "sh-dave" } ],
-  "manifest": "https://github.com/sh-dave/fvtt-hexxen1733-basics/main/module.json",
-  "download": "https://github.com/sh-dave/fvtt-hexxen1733-basics/releases/fvtt-hexxen1733-basics-0.1.0.zip"
+  "manifest": "https://raw.githubusercontent.com/sh-dave/fvtt-hexxen1733-basics/main/module.json",
+  "download": "https://github.com/sh-dave/fvtt-hexxen1733-basics/releases/download/v0.2.0/fvtt-hexxen1733-basics-0.2.0.zip"
 }

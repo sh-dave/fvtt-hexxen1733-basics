@@ -1,0 +1,25 @@
+{
+  "id": "hexxen-1733-basics",
+  "title": "HeXXen 1733 - Basics",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+ "packs": [
+    {
+      "name": "hexxen-1733-basics",
+      "label": "HeXXen 1733 - Basics",
+      "path": "packs/hexxen-1733-basics",
+      "type": "Adventure",
+      "system": "hexxen-1733",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "authors": [ { "name": "sh-dave" } ],
+  "manifest": "https://github.com/sh-dave/fvtt-hexxen1733-basics/main/module.json",
+  "download": "https://github.com/sh-dave/fvtt-hexxen1733-basics/releases/fvtt-hexxen1733-basics-0.1.0.zip"
+}
